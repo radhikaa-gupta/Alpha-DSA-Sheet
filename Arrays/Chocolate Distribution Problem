@@ -1,0 +1,16 @@
+class Solution {
+    public int findMinDiff(ArrayList<Integer> arr, int m) {
+        //select m closest value
+        Integer[] array = arr.toArray(new Integer[0]);
+        Arrays.sort(array);
+        int start = 0;
+        int end = start + m - 1;
+        int mindiff = array[end] - array[start];
+        while(end < array.length){
+            mindiff = Math.min(mindiff, (array[end] - array[start]));
+            end++;
+            start++;
+        }
+        return mindiff;
+    }
+}

@@ -1,6 +1,7 @@
 # Alpha-DSA-Sheet
 # Arrays Problem Checklist
 
+ ### 2nd Jan
 - ✅ Maximum and Minimum Element in an Array
 - ✅ Reverse the Array
 - ✅ Maximum-Subarray (Use Kadane's Algorithm)

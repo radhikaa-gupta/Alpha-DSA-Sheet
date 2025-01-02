@@ -1,11 +1,11 @@
 # Alpha-DSA-Sheet
 # Arrays Problem Checklist
 
-- [x] Maximum and Minimum Element in an Array
-- [x] Reverse the Array
-- [x] Maximum-Subarray (Use Kadane's Algorithm)
-- [x] Contains Duplicate
-- [x] Chocolate Distribution Problem
+- ✅ Maximum and Minimum Element in an Array
+- ✅ Reverse the Array
+- ✅ Maximum-Subarray (Use Kadane's Algorithm)
+- ✅ Contains Duplicate
+- ✅ Chocolate Distribution Problem
 - [ ] Search in Rotated Sorted Array
 - [ ] Next Permutation
 - [ ] Best Time to Buy and Sell Stock

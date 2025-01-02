@@ -27,3 +27,6 @@
 - [ ] Subarray Sum Divisible K
 - [ ] Print All Possible Combinations of r Elements in a Given Array of Size n
 - [ ] Mo's Algorithm
+
+- [ ] Print All Possible Combinations of r Elements in a Given Array of Size n
+- [ ] Mo's Algorithm
